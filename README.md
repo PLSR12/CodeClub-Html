@@ -26,5 +26,6 @@ These were the projects made in the Html in my course module.
 ## :computer: Technologies
 
 -![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+-![JAVASCRIPT] (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 Made with ♥ by Pedro Dos Santos :wave: [Get in touch!](https://www.linkedin.com/in/pedro-lucas-dos-santos/)
